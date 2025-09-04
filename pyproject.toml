@@ -6,12 +6,15 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
 
-    "geopandas",
-    "ipykernel",
-    "matplotlib",
-     "geodatasets",
-      "contextily",
-      "pygbif",
-       "folium",
-       "mapclassify"
+        "geopandas",
+        "ipykernel",
+        "matplotlib",
+        "geodatasets",
+        "contextily",
+        "pygbif",
+        "folium",
+        "mapclassify",
+        "rasterio",
+        "openpyxl",
+
 ]
