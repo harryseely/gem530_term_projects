@@ -27,14 +27,14 @@ The data directory is structured as follows, with one folder per project. Each f
 
 ## Projects
 
-- **[Analyzing Trends in Forest Cutblocks in British Columbia across Different Topographies](#analyzing-trends-in-forest-cutblocks-in-british-columbia-across-different-topographies)**
+- **[Analyzing Topographic Trends in Forest Cutblocks across British Columbia](#analyzing-trends-in-forest-cutblocks-in-british-columbia-across-different-topographies)**
 
 - **[Investigating Species at Risk Observations Within Canadian National Parks](#investigating-species-at-risk-observations-within-canadian-national-parks)**
 
-- **[Mapping Tree Species Distribution Across the Petawawa Research Forest using Machine Learning](#mapping-tree-species-distribution-across-the-petawawa-research-forest-using-machine-learning)**
+- **[Mapping Tree Species Across the Petawawa Research Forest using LiDAR](#mapping-tree-species-distribution-across-the-petawawa-research-forest-using-machine-learning)**
 
 
-## Analyzing Trends in Forest Cutblocks in British Columbia across Different Topographies
+## Analyzing Topographic Trends in Forest Cutblocks across British Columbia 
 
 ### Background
 
@@ -185,7 +185,7 @@ package.
 
 Original Dataset: <https://www.gbif.org/>
 
-## Mapping Tree Species Distribution Across the Petawawa Research Forest using Machine Learning
+## Mapping Tree Species Across the Petawawa Research Forest using LiDAR
 
 ### Background
 
