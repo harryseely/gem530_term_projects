@@ -25,6 +25,8 @@ The data directory is structured as follows, with one folder per project. Each f
         ├── als_metrics.tif
         ├── plot_data.xlsx
         ├── plot_locations.gpkg
+        ├── prf_boundary.gpkg
+        └── sp_codes.csv
 ```
 
 ## Projects
