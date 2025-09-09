@@ -1,7 +1,3 @@
----
-title: GEM530 Project Descriptions
----
-
 # GEM530 Term Project Descriptions
 
 This GitHub repository contains introductory code and data for the GEM530 term projects. Each dataset is described below in more detail. References relevant for each project are provided at the bottom of the page.
