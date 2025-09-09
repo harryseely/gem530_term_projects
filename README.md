@@ -13,17 +13,18 @@ This GitHub repository contains introductory code and data for the GEM530 term p
 The data directory is structured as follows, with one folder per project. Each file is described in more detail below.
 
 ```
-├── cutblocks_topo/
-│   ├── aoi.gpkg
-│   ├── cutblocks.gpkg
-│   └── dem.tif
-├── parks_sar/
-│   ├── CAN-SAR_database.csv
-│   └── parks.gpkg
-└── petawawa_species/
-    ├── als_metrics.tif
-    ├── plot_data.xlsx
-    ├── plot_locations.gpkg
+/data
+    ├── cutblocks_topo/
+    │   ├── aoi.gpkg
+    │   ├── cutblocks.gpkg
+    │   └── dem.tif
+    ├── parks_sar/
+    │   ├── CAN-SAR_database.csv
+    │   └── parks.gpkg
+    └── petawawa_species/
+        ├── als_metrics.tif
+        ├── plot_data.xlsx
+        ├── plot_locations.gpkg
 ```
 
 ## Projects
@@ -79,6 +80,8 @@ literature to incorporate other potentially useful topographic
 indicators for assessing to geohazard and flood risk in cutblocks.
 Finally, the Ministry has requested the analysis be limited to an area
 of interest (AOI) in central BC as this is a preliminary study.
+
+[**View project notebook here**](cutblocks_topo.ipynb)
 
 ### Dataset Description
 
@@ -147,6 +150,8 @@ Package](https://github.com/gbif/pygbif) (pygbif). Ultimately, the goal
 of the Agency is to develop a dashboard website that summarizes SAR
 occurrences across all National parks that can be updated via the GBIF
 database.
+
+[**View project notebook here**](parks_sar.ipynb)
 
 ### Dataset Description
 
@@ -224,6 +229,8 @@ to the Ministries province wide EFI. As a secondary item, the Ministry
 is also interested whether ALS is sufficient on its own to model species
 accurately, or whether multispectral data is required in addition to ALS
 to be used within a data fusion framework.
+
+[**View project notebook here**](petawawa_species.ipynb)
 
 ### Dataset Description
 
